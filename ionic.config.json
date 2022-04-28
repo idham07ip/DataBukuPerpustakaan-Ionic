@@ -1,0 +1,7 @@
+{
+  "name": "Perpusmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
